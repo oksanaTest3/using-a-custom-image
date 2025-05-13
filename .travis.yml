@@ -1,6 +1,3 @@
 vm:
   use: 
     name: linux-image
-  size: x-large
-  create:
-    name: test
