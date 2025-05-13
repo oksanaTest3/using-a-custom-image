@@ -3,6 +3,7 @@ language: generic
 dist: focal
 
 vm:
-  use: linux-image
-  create: large
+  use: 
+    name: linux-image
+  create:
     name: new-linux-image
