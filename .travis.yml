@@ -1,4 +1,5 @@
 vm:
   use: 
     name: linux-image
-    size: large
+    create: large
+      name: new-linux-image
