@@ -1,0 +1,6 @@
+os: linux
+language: generic
+dist: focal
+vm:
+  create:
+    name: linux-image
