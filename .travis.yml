@@ -1,4 +1,5 @@
+size: large
 vm:
   use: 
     name: linux-image
-  size: large
+  size: x-large
