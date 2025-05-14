@@ -1,2 +1,2 @@
 vm:
-  use:
+  use: new-linux-image
