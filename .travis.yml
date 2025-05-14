@@ -1,2 +1,3 @@
 vm:
-  use:
+  use: linux-image
+size:
