@@ -1,3 +1,7 @@
+os: linux
+language: generic
+dist: focal
+
 vm:
-  create: 
-    name: custom-image-1405
+  create:
+    name: custom-image-140525
