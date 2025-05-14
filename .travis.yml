@@ -1,4 +1,4 @@
 vm:
   use: 
     name: linux-image
-size:
+# size:
