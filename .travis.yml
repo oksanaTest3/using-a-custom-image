@@ -1,3 +1,2 @@
 vm:
-  use:
-    name: custom-image-140525
+  use: linux-image
